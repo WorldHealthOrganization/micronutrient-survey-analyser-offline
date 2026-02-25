@@ -1,1 +1,12 @@
-# micronutrient-survey-analyser-offline
+ReadMe – Micronutrient Survey Analyser (Offline App)
+Updated: 11‑12‑2025
+Instructions for running the Micronutrient Survey Analyser offline app
+
+Download the ZIP folder containing the Micronutrient Survey Analyser offline application to your desktop.
+Unzip the folder. It is recommended to extract it in the same location where the ZIP file was downloaded.
+Open the unzipped folder and double-click the file named Micronutrients Analyser.exe.
+If a security alert appears preventing the app from running, click “More info”.
+In the same window, you will see the application name WHO Micronutrients Analyser.exe. Click “Run anyway”.
+The Micronutrient Survey Analyser offline app should now open on your desktop. Congratulations!
+
+For any questions or comments, please contact the Micronutrient Survey Analyser team at nfsdata@who.int.# micronutrient-survey-analyser-offline
