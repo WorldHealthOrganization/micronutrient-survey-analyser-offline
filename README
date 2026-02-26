@@ -1,12 +1,14 @@
-ReadMe – Micronutrient Survey Analyser (Offline App)
+#WHO Micronutrients Survey Analyser (Microsoft Windows Application)
 
-Instructions for running the Micronutrient Survey Analyser offline app
+Download Link:
 
-Download the ZIP folder containing the Micronutrient Survey Analyser offline application to your desktop.
-Unzip the folder. It is recommended to extract it in the same location where the ZIP file was downloaded.
-Open the unzipped folder and double-click the file named Micronutrients Analyser.exe.
-If a security alert appears preventing the app from running, click “More info”.
-In the same window, you will see the application name WHO Micronutrients Analyser.exe. Click “Run anyway”.
-The Micronutrient Survey Analyser offline app should now open on your desktop. Congratulations!
+Online Version: https://www.who.int/tools/micronutrient-survey-analyser-and-other-tools
 
-For any questions or comments, please contact the Micronutrient Survey Analyser team at nfsdata@who.int.
+## About
+
+The Micronutrient Survey Analyser is an online tool developed by the Department of Nutrition and Food Safety (WHO), that allows the user to perform comprehensive analysis of micronutrient status survey data for all populations.
+The analyses are aligned with the updated WHO guidelines on assessing micronutrient status of individuals and populations.
+The version V.01 of the tool provides results for four biomarker indicators: haemoglobin, ferritin, urinary iodine concentration (UIC) and iron deficiency anaemia (IDA). 
+In the future, the tool will include other micronutrient biomarkers.
+
+
