@@ -1,6 +1,6 @@
-#WHO Micronutrients Survey Analyser (Microsoft Windows Application)
+# WHO Micronutrients Survey Analyser (Microsoft Windows Application)
 
-Download Link:
+Download Link: 
 
 Online Version: https://www.who.int/tools/micronutrient-survey-analyser-and-other-tools
 
@@ -18,14 +18,15 @@ research centres, any other institution or key actors responsible for data analy
 status indicators. It can particularly aid those who do not have access to standard statistical 
 software to analyse surveys. 
 
-## What are the key features of the Micronutrient Survey 
-Analyser? 
+## What are the key features of the Micronutrient Survey Analyser? 
+
 • **Standard analysis** according to the WHO recommended cutoffs to define micronutrient 
 status of populations disaggregated by age, sex, pregnancy status, type of residence and 
 sub-regions/districts available. It also provides calculations of confidence intervals and 
 standard errors around the estimates in complex sample designs and methodology.2 For 
 each biomarker, weighted and unweighted sample sizes are provided. These analyses are 
 presented in short and long formats. 
+
 • **Data quality** assessment takes into consideration input data distributions, adjusted data 
 distributions, and percentage of missing and implausible data. 
 
@@ -34,26 +35,29 @@ provides a data quality report and a summary report template already including m
 findings and key outputs for data quality assessment based on existing best practices for 
 reporting.  
 
-## What are the main outputs of the Micronutrient Survey 
-Analyser? 
+## What are the main outputs of the Micronutrient Survey Analyser? 
 
-**Individual classification file**: Provides individual classifications of micronutrient status 
+• **Individual classification file**: Provides individual classifications of micronutrient status 
 according to WHO recommended cutoffs to define micronutrient status of populations.  
-**Short format prevalence file** according to the WHO recommended cutoffs standard 
+
+• **Short format prevalence file** according to the WHO recommended cutoffs standard 
 analysis; includes prevalence estimates with corresponding standard errors and 
 confidence intervals, and summary statistics (mean and standard deviation). 
-**Long format prevalence file** using a wide range of cutoffs; includes prevalence estimates 
+
+• **Long format prevalence file** using a wide range of cutoffs; includes prevalence estimates 
 with corresponding standard errors and confidence intervals, and summary statistics 
 (mean and standard deviation). 
-**Data quality report** provides histograms and figures depicting data distribution and 
-missing and implausible values. 
-**Summary report** provides a summary of the data quality assessment and prevalence 
-results. 
 
 All results for short and long format prevalence files are provided at overall and disaggregated 
 levels for available stratification variables (age, sex, type of residence, geographical regions, 
 wealth quintiles, mother education and one additional factor the user is interested in and for 
 which data are available).
+
+• **Data quality report** provides histograms and figures depicting data distribution and 
+missing and implausible values. 
+
+• **Summary report** provides a summary of the data quality assessment and prevalence 
+results. 
 
 ### Instructions for running offline Micronutrients Windows app
 
