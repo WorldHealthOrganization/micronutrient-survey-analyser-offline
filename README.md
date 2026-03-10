@@ -1,4 +1,4 @@
-# WHO Micronutrients Survey Analyser (Microsoft Windows Application)
+# WHO Micronutrient Survey Analyser (Microsoft Windows Application)
 
 Download Link: 
 
