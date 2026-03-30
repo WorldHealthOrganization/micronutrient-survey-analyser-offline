@@ -1,6 +1,6 @@
 # WHO Micronutrient Survey Analyser (Microsoft Windows Application)
 
-Download Link: coming soon
+Download Link: https://github.com/WorldHealthOrganization/micronutrient-survey-analyser-offline/blob/main/Micronutrients-Survey_Analyser.zip
 
 Online Version: https://www.who.int/tools/micronutrient-survey-analyser-and-other-tools
 
@@ -63,10 +63,10 @@ results.
 
 - Download the ZIP folder containing the Micronutrient Survey Analyser offline application in your deskstop.
 - Unzip the folder. It is recommended to extract it in the same location where the ZIP file was downloaded.
-- Open the unzipped folder and double-click the file named Micronutrients Analyser.exe.
-- If an alert message appears preventing the app from running, click “More info”.
-- In the same window, you will see the application name WHO Micronutrients Analyser.exe. Click “Run anyway”.
+- Open the unzipped folder and double-click the file named "Start_WHO_Micronutrients_Analyzer_v1.0.bat"
+- A new window will appear. Click “Run anyway”.
 - Congratulations! The Micronutrient Survey Analyser offline app should now open in your desktop.
+  
 For any queries or comments, please contact the Micronutrient Survey Analyser team at **nfsdata@who.int**.
 
 ## Acknowledgments 
@@ -85,9 +85,8 @@ from GroundWork. We also thank Richard Kumapley (WHO MNF), Ann Mizumoto and Andi
 Mizumoto for preparing this tool guide.  
 
 We sincerely thank Lisa Rogers and Maria Nieves Garcia-Casal (WHO) for their feedback on providing 
-guidance and feedback to ensure the tool’s alignment with WHO guidelines. We are grateful to  
-Maria Elena Jefferds, Yaw Addo (US CDC) and Aatekah Owais (US CDC consultant) for their feedback 
-on the tool’s features. We also thank Christine Pfeiffer (CDC) and Hanqi Luo (Emory University) for 
+guidance and feedback to ensure the tool’s alignment with WHO guidelines. We are grateful to  Maria Elena Jefferds, Yaw Addo (US CDC*) and Aatekah Owais (US CDC* consultant) for their feedback 
+on the tool’s features. We also thank Christine Pfeiffer (CDC*) and Hanqi Luo (Emory University) for 
 their technical feedback on inflammation biomarkers.  Special thanks to meeting participants and 
 organizers at the Micronutrient Forum’s Africa regional anaemia data meeting ‘Multisectoral Action 
 on Anaemia in Africa: Navigating the Data Landscape for Effective Solutions’ which took place in 
@@ -98,6 +97,8 @@ data quality assessment features.
 
 The development of the WHO Micronutrients Survey Analyser was funded by the Bill and Melinda 
 Gates Foundation. 
+
+*CDC inputs were provided before December 2024 
 
 
 
